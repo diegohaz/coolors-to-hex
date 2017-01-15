@@ -1,6 +1,6 @@
 {
   "name": "coolors-to-hex",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get hexadecimal values from a coolors url",
   "license": "MIT",
   "repository": "diegohaz/coolors-to-hex",
